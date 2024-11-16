@@ -1,3 +1,21 @@
+## readme.md
+for using this code firstly use 
+pip install -r requirements.txt
+
+in first we use pandas for data cleaning and thier furture processing
+
+then in second task we use matplotlib for graphs
+
+
+
+and for the section 2 
+we are using pandas for data preprocessing and
+sklearn for selecting the model and making the train test split
+and the standardScaler & Label encode for the categorical number 
+We are using Random forest algorithm in this model 
+ 
+
+
 # O7-solutions
 
 Section 1: Python for Data Science
